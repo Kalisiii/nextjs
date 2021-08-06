@@ -5,22 +5,11 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "start": "next start"
   },
   "dependencies": {
-    "@headlessui/react": "^1.4.0",
-    "@heroicons/react": "^1.0.3",
-    "@heroicons/react/outline": "^1.0.3",
-    "heroicons-react": "^1.4.1",
-    "next": "^10.2.3",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "tsconfig.json": "^1.0.10"
-  },
-  "devDependencies": {
-    "autoprefixer": "^10.3.1",
-    "postcss": "^8.3.6",
-    "tailwindcss": "^2.2.7"
+    "next": "10.x",
+    "react": "17.x",
+    "react-dom": "17.x"
   }
 }
